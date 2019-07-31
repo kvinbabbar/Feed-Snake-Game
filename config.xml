@@ -1,7 +1,7 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 
 <widget xmlns = "http://www.w3.org/ns/widgets" 
-   xmlns:gap = "https://kvinbabbar.com/ns/1.0" id = "com.kvinbabbar.onlineviewer" version = "1.0">
+   xmlns:gap = "https://kvinbabbar.com/ns/1.0" id = "com.kvinbabbar.feedsnake" version = "1.0">
    
    <name>Feed Snake</name>
    
@@ -31,6 +31,5 @@
    <icon src = "res/icon/android/mipmap-xxhdpi/ic_launcher.png" 
       gap:platform = "android" gap:qualifier = "xxhdpi" />
    
-   <icon src = "res/icon/ios/iTunesArtwork@1x.png" gap:platform = "ios" gap:qualifier = ""/>
    
 </widget>

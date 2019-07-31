@@ -18,7 +18,7 @@ const foodColor = "tomato";
 const foodBorderColor = "white";
 const snakeColor = "black";
 const snakeBorderColor = "lightgray";
-const gameSpeed = 100;
+const gameSpeed = 300;
 let snakeSize;
 let timeoutHandle;
 let gameStarted = false;
